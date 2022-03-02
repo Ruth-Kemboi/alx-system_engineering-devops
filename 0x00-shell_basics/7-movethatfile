@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /tmp
+echo >betty
+mv /tmp/betty /tmp/my_first_directory 
